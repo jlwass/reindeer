@@ -4,14 +4,14 @@ We want to make contributing to this project as easy and transparent as
 possible.
 
 The hope is that Reindeer will be useful to people throughout the Rust
-community. However, since we've developed it as internal project to serve
-internal goals, its unlikely to meet anyone else's requirements immediately, so
+community. However, since we've developed it as an internal project to serve
+internal goals, it's unlikely to meet anyone else's requirements immediately, so
 we'd like to see issues and PRs to add those features.
 
 ## Our Development Process
 
-Reindeer's primary repository is mainained internally at Facebook, which is
-periodically synced with github. Code changes are first merged with the internal
+Reindeer's primary repository is maintained internally at Facebook, which is
+periodically synced with Github. Code changes are first merged with the internal
 version and republished.
 
 ## Pull Requests
